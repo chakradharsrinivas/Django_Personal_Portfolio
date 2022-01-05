@@ -159,4 +159,3 @@ widgetsnbextension==3.5.1
 wrapt==1.12.1
 wsproto==1.0.0
 xhtml2pdf==0.2.5
-xournal-converters==0.0.9
